@@ -98,6 +98,17 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      padding-top: 10px;
 }
+a {
+  color: #00bfff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff4b2b;
+  text-decoration: underline;
+}
+
 .skills {
     width: 100%;
     /* border: 1px solid #0d1b2a; */
@@ -164,4 +175,5 @@
     padding-left: 190px;
     font-size: 20px;
     margin-top: 15px;
+
 }
